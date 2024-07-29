@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikKessel
-- 👀 I’m interested in Automasation, Machine Learning
+- 👀 I’m interested in Automation, Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
