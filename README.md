@@ -26,7 +26,7 @@ Feel free to connect with me via:
 He/Him
 
 ## ⚡ Fun Fact
-I have a keen interest in combining engineering principles with data science to drive technological innovation.
+Deadly allergic to peanuts
 
 ---
 Thank you for visiting my profile! Feel free to explore my repositories, although please note that many are private due to confidentiality related to my work. Don’t hesitate to reach out if you’re interested in collaboration or have any questions.
